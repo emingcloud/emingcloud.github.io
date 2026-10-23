@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ntxmall.app",
+      "sha256_cert_fingerprints":
+        ["71:DB:E2:D9:CE:41:03:A0:90:AC:AA:5E:65:1F:D2:60:45:7A:72:DD:24:40:69:92:4D:AA:70:C5:B3:68:A4:2C"]
+    }
+  }
+]
